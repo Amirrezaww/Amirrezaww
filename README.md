@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amirrezaww
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : currently you can't
+- 👀 I’m interested in Machine Learning, Deep Learning, RAG
+- 🌱 I’m currently Pursuing my Masters degree in Data Science
+- 💞️ I’m looking to collaborate on Data Science projects
+- 📫 How to reach me : amirreza.amini44@gmail.com
 
 <!---
 Amirrezaww/Amirrezaww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
