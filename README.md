@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Amirrezaww
-- 👀 I’m interested in Machine Learning, Deep Learning, RAG
-- 🌱 I’m currently Pursuing my Masters degree in Data Science
-- 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me : amirreza.amini44@gmail.com
-
-<!---
-Amirrezaww/Amirrezaww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Amirreza Amini (@Amirrezaww)
+- 🎓 MSc Data Science, Middlesex University — Certificate of Best Project (Jan 2026)
+- 🔬 Specialising in LLMs, RAG architectures, production ML systems & LLM evaluation
+- 🛠️ Projects: multi-strategy RAG pipeline, financial NLP classifier (F1 = 0.974), credit risk predictor — all deployed end-to-end on AWS
+- 💼 Open to Data Scientist roles in London
+- 📫 aamini8118@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/amirreza-amini8118)
