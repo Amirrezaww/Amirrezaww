@@ -3,5 +3,5 @@
 - 🔬 Specialising in LLMs, RAG architectures, production ML systems & LLM evaluation
 - 🌐 Portfolio, with live demos you can run in the browser: **[amirrezaww.github.io](https://amirrezaww.github.io)**
 - 🛠️ Projects: multi-strategy RAG pipeline (accuracy 32.0% → 77.8%), financial NLP classifier served on AWS (F1 = 0.974), credit risk predictor on Hugging Face Spaces
-- 💼 Open to Data Scientist roles in London
+- 💼 Open to Data Scientist and ML/AI Engineer roles in London
 - 📫 aamini8118@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/amirreza-amini8118)
