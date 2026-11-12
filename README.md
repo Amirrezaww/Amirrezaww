@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Amirreza Amini (@Amirrezaww)
 - 🎓 MSc Data Science, Middlesex University — Certificate of Best Project (Jan 2026)
 - 🔬 Specialising in LLMs, RAG architectures, production ML systems & LLM evaluation
-- 🛠️ Projects: multi-strategy RAG pipeline, financial NLP classifier (F1 = 0.974), credit risk predictor — all deployed end-to-end on AWS
+- 🌐 Portfolio, with live demos you can run in the browser: **[amirrezaww.github.io](https://amirrezaww.github.io)**
+- 🛠️ Projects: multi-strategy RAG pipeline (accuracy 32.0% → 77.8%), financial NLP classifier served on AWS (F1 = 0.974), credit risk predictor on Hugging Face Spaces
 - 💼 Open to Data Scientist roles in London
 - 📫 aamini8118@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/amirreza-amini8118)
